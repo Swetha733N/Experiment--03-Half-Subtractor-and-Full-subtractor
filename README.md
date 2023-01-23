@@ -46,9 +46,13 @@ RegisterNumber:
 
 
 ##  RTL realization
+![half and full subtractor_page-0001](https://user-images.githubusercontent.com/122199934/214083361-ce68e170-e47d-48d0-9944-25afe1a57fc4.jpg)
+![half and full subtractor_page-0003](https://user-images.githubusercontent.com/122199934/214083464-05e9dd50-4373-462b-9a77-b2b9789e5a29.jpg)
 
 
 ## Timing diagram 
+![half and full subtractor_page-0002](https://user-images.githubusercontent.com/122199934/214083519-fe56c678-0bf8-4e41-8d5e-2e36d4bea7e3.jpg)
+![half and full subtractor_page-0004](https://user-images.githubusercontent.com/122199934/214083585-cb8f0c64-3365-4ae3-8888-1ab4da08a6ad.jpg)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
