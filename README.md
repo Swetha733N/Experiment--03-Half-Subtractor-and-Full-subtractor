@@ -50,7 +50,6 @@ HALF SUBTRACTOR:
 
 FULL SUBTRACTOR:
 
-
 ![image](https://user-images.githubusercontent.com/122199934/214778826-c47287fd-1c49-42db-8197-4b2c88b32600.png)
 
 
